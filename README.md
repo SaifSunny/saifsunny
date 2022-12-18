@@ -1,7 +1,9 @@
+[![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saieef Sarower Sunny</h1>
 <h3 align="center">A passionate Graphic Designer, Full Stack Web and Android Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifsunny&label=Profile%20views&color=0e75b6&style=flat" alt="saifsunny" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saif_sunny56" target="blank"><img src="https://img.shields.io/twitter/follow/saif_sunny56?logo=twitter&style=for-the-badge" alt="saif_sunny56" /></a> </p>
