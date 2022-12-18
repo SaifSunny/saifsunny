@@ -110,5 +110,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifsunny&show_icons=true&locale=en&layout=compact" alt="saifsunny" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifsunny&show_icons=true&locale=en" alt="saifsunny" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifsunny&" alt="saifsunny" /></p>
