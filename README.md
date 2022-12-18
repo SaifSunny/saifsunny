@@ -107,12 +107,12 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
-<p><img align="left" style="height:150px"
+<p><img align="left" style="height:200px; padding-top:50px;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=saifsunny&show_icons=true&locale=en&layout=compact"
         alt="saifsunny" /></p>
 
-<p>&nbsp;<img align="center" style="height:150px"
+<p>&nbsp;<img align="center" style="height:200px;padding-top:50px;"
         src="https://github-readme-stats.vercel.app/api?username=saifsunny&show_icons=true&locale=en" alt="saifsunny" />
 </p>
 
-<p><img align="center" style="height:150px" src="https://github-readme-streak-stats.herokuapp.com/?user=saifsunny&" alt="saifsunny" /></p>
+<p><img align="right" style="height:200px;padding-top:50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=saifsunny&" alt="saifsunny" /></p>
