@@ -41,7 +41,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="90%">
+    <td valign="top" width="120%">
       <h4>Programming Languages:</h4>
       <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -78,9 +78,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
         </a>
       </p>
-    </td>
-      
-    <td valign="top" width="90%">
       <h4>Web Development:</h4>
       <p align="left">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
