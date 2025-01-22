@@ -41,7 +41,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="90%">
       <h4>Programming Languages:</h4>
       <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
