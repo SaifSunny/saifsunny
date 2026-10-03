@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Saieef Sarower Sunny</title>
+  <desc id="desc">AI research, data analytics and software engineering. From data to decisions.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1525" />
+      <stop offset="1" stop-color="#152d3b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#65e1d4" />
+      <stop offset="1" stop-color="#8dbaff" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8bb4c3" stroke-opacity="0.07" />
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#background)" />
+  <rect width="1280" height="320" rx="18" fill="url(#grid)" />
+  <path d="M 855 0 C 792 128 924 233 873 320" fill="none" stroke="#65e1d4" stroke-opacity="0.14" />
+  <path d="M 890 0 C 827 128 959 233 908 320" fill="none" stroke="#65e1d4" stroke-opacity="0.09" />
+  <rect x="64" y="54" width="48" height="4" rx="2" fill="url(#accent)" />
+  <text x="64" y="94" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#80d6d7">FROM DATA TO DECISIONS</text>
+  <text x="61" y="165" font-family="DejaVu Sans, Arial, sans-serif" font-size="48" font-weight="700" fill="#f2f6fb">Saieef Sarower Sunny</text>
+  <text x="64" y="211" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#bbcfdd">AI Research · Data Analytics · Software Engineering</text>
+  <text x="64" y="268" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#8ea9b9">LONDON, UK</text>
+  <g fill="none" stroke="#6aaec2" stroke-width="1.5" stroke-opacity="0.36">
+    <path d="M 957 81 L 1078 59 L 1193 115 L 1160 235 L 1030 266 L 934 191 Z" />
+    <path d="M 957 81 L 1080 156 L 1193 115 M 934 191 L 1080 156 L 1160 235 M 1078 59 L 1080 156 L 1030 266" />
+    <path d="M 957 81 L 934 191 L 1030 266 M 1078 59 L 1193 115 L 1160 235" />
+  </g>
+  <g fill="#152d3b" stroke="#8dbaff" stroke-width="2">
+    <circle cx="957" cy="81" r="6" />
+    <circle cx="1078" cy="59" r="6" />
+    <circle cx="1193" cy="115" r="6" />
+    <circle cx="1160" cy="235" r="6" />
+    <circle cx="1030" cy="266" r="6" />
+    <circle cx="934" cy="191" r="6" />
+  </g>
+  <circle cx="1080" cy="156" r="30" fill="#65e1d4" fill-opacity="0.07" stroke="#65e1d4" stroke-opacity="0.2" />
+  <circle cx="1080" cy="156" r="13" fill="#65e1d4" />
+  <circle cx="1080" cy="156" r="5" fill="#0b1525" />
+  <path d="M 64 298 H 1216" stroke="url(#accent)" stroke-opacity="0.25" />
+</svg>
