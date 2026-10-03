@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Saieef Sarower Sunny — Researcher, AI and ML engineer, and software engineer. From ideas to intelligent systems." width="100%" />
+  <img src="profile-banner.svg" alt="Saieef Sarower Sunny — Researcher, AI and ML engineer, and software engineer. From ideas to intelligent systems." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sunny</h1>
